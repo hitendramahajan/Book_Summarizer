@@ -4,7 +4,7 @@ Flask==2.2.5
 Celery==5.0.0
 Pillow==9.2.0
 SQLAlchemy==1.0.0
-PyPDF2==2.12.1
+PyPDF2==1.26.0
 Pytest==4.0.0
 utils==1.0.1
 sumeval==0.2.2
